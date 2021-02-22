@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Web deveopment and Mobile App development
+- 🔭 I’m currently working on ... Web Developer and Mobile App developer
 - 🌱 I’m currently learning ... BIM
 - 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ... JS
